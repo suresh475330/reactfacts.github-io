@@ -3,7 +3,7 @@ import React from 'react'
 function Body(){
     return(
         <main>
-            <h1>Fun facts about react</h1>
+            <h1>Fun Facts About React</h1>
             <ul>
                 <li>Was first released in 2013</li>
                 <li>Was originally created by jordan wlake</li>
