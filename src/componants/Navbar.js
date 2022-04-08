@@ -6,7 +6,7 @@ function Navbar(){
         <nav>
             <img src={logo} alt='logo'/>
             <h3>ReactFacts</h3>
-            <h4>React course project-1</h4>
+            <h4>React Course-Project 1</h4>
         </nav>
     )
 }
